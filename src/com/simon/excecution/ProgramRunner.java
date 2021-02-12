@@ -58,7 +58,7 @@ public class ProgramRunner {
                 run();
                 break;
             case "n":
-                System.out.println("Calculator is turned off... God bye");
+                System.out.println("Calculator is turned off... Good bye");
                 System.exit(0);
                 break;
             default:
