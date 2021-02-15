@@ -6,8 +6,6 @@ public class Main {
 
         ProgramRunner runner = new ProgramRunner();
         runner.run();
-        
-        //Test
 
     }
 
